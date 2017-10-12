@@ -1,3 +1,5 @@
+Updated to make Tools work in the example code.
+
 ![Leap Motion for Processing](reference/github_cover.png)
 
 ===
